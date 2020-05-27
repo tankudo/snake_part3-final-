@@ -6,10 +6,10 @@ import javax.swing.*;
 public class MainWindow extends JFrame {
 
     public MainWindow(){
-        setTitle("Змейка");
-        setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        setSize(320,345);
-        setLocation(400,400);
+        setTitle("Progmatic Snake");
+        setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE); //крестик закрывает окно
+        setSize(640,665);
+        setLocation(400,200);
         add(new GameField());
         setVisible(true);
     }
