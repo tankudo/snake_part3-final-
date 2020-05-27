@@ -42,7 +42,7 @@ public class Tutorial extends JPanel implements ActionListener, KeyListener {
         image3 = Toolkit.getDefaultToolkit().createImage("380D.gif");
         image4 = Toolkit.getDefaultToolkit().createImage("380E.gif");
         image5 = Toolkit.getDefaultToolkit().createImage("380F.gif");
-        image6 = Toolkit.getDefaultToolkit().createImage("320A.gif");
+        image6 = Toolkit.getDefaultToolkit().createImage("320AB.gif");
         image7 = Toolkit.getDefaultToolkit().createImage("320B.gif");
         image8 = Toolkit.getDefaultToolkit().createImage("320C.gif");
         image9 = Toolkit.getDefaultToolkit().createImage("320D.gif");
